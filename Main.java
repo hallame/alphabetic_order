@@ -16,7 +16,7 @@ public class Main {
             }
         }
 
-        System.out.println("The names in alphabetical order are: ");
+        System.out.println("The names in alphabetical order: ");
         for (int i = 0; i < n; i++) {
             System.out.println(names[i]);
         }
